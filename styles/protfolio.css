@@ -1,3 +1,7 @@
 .hallo {
      color: blue;
 }
+.color {
+     border: 2px solid red;
+    max-width: 500px;
+}
